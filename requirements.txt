@@ -2,4 +2,4 @@ pymupdf
 pytesseract
 pdf2image
 reportlab
-ocrmypdf
+pyspellchecker
