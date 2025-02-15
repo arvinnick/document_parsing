@@ -24,3 +24,9 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or collaboration, reach out via GitHub issues.
 
+## installation #ro be removed after dockerization
+1- Run the commands:
+```commandline
+sudo apt install tesseract-ocr
+pip install -r requirements.txt
+```

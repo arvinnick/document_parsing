@@ -1,1 +1,5 @@
-PyMuPDF
+pymupdf
+pytesseract
+pdf2image
+reportlab
+ocrmypdf
